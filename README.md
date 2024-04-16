@@ -11,4 +11,4 @@ ls
 ls.sort(reverse=False)
 ls
 #實作
-![image]()
+![image](https://github.com/moon0429/pymidtext/blob/main/midpy.png)
